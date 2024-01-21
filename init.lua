@@ -1,3 +1,4 @@
+
 vim.g.mapleader = " "
 -- Configuarción de lazy.nvim package manager:q
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
@@ -15,3 +16,7 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins", opts)
 require("davidconfig")
+--vim.cmd[[colorscheme tokyonight]]
+
+--vim.api.nvim_set_hl(0, "Normal", { bg = "none"})
+--vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none"})
