@@ -8,8 +8,4 @@ If nvim v0.9 is not present, you can download the [appimage](https://github.com/
 
 You might need to install FUSE 2 with `sudo apt install libfuse2`
 
-
-## Plugins:
-- As a package manager I use 💤[lazy.nvim](https://github.com/folke/lazy.nvim?tab=readme-ov-file#-structuring-your-plugins)
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim?tab=readme-ov-file) for fuzzy finding
-- [MarkdownPreview](https://github.com/iamcco/markdown-preview.nvim)
+![](https://i.pinimg.com/originals/05/1d/53/051d5320f7824fad820489edf5e1fc76.gif)
